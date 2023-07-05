@@ -2,7 +2,7 @@
 
 Here, it's all events that are listening in better_player flutter event listener and it displays the small description about all of those events.
 
-initialized → When the video will initialize in Better Player.
+initialized → When the video will initialize in Better Player
 play → When the video will be played in the player
 pause → When video will be paused in the player
 seekTo → When the user will try to seek the video in specific seconds
